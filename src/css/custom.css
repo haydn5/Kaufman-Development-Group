@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:300|Work+Sans&display=swap');
+
+.logoheader {
+    border-bottom: 1px solid grey;
+    margin-bottom: 30px;
+}
+
+.oneCol {
+    max-width: 700px;
+}
+
+h2 {
+    font-weight: 400;
+    font-family: 'Montserrat';
+}
