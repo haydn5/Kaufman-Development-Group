@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Montserrat:300|Work+Sans&display=swap');
+/* @import url('https://fonts.googleapis.com/css?family=Montserrat:300|Work+Sans&display=swap'); */
 
 .logoheader {
     border-bottom: 1px solid grey;
@@ -6,10 +6,30 @@
 }
 
 .oneCol {
-    max-width: 700px;
+    max-width: 750px;
 }
 
-h2 {
+h1, h2 {
     font-weight: 400;
     font-family: 'Montserrat';
+}
+
+.nav-link {
+    display: inherit;
+}
+
+.boxShadow {
+    box-shadow: 0px 5px 5px rgba(0,0,0,.3);
+    margin-bottom: 20px;
+}
+
+footer {
+    padding: 40px 0px;
+    font-family: 'Montserrat';
+    font-size: .9em;
+}
+
+footer.boxShadowFooter {
+    box-shadow: 0px -5px 5px rgba(0,0,0,.2);
+    margin-top: 30px;
 }
