@@ -12,8 +12,11 @@ export default () =>
         <Header />
         <Helmet title="Contact | Kaufman Development Group" />
         <Container className="oneCol">
-            <h1>Contact Page</h1>
-            <p>Bacon ipsum dolor amet short ribs tail pork, leberkas spare ribs sausage chislic buffalo landjaeger pork belly corned beef. Ball tip doner kevin short ribs tongue t-bone. Ground round tenderloin meatball, kevin sirloin shoulder rump short loin. Biltong doner landjaeger beef ribs, alcatra pork chop prosciutto tri-tip fatback brisket. Pork loin jowl beef shoulder meatball, picanha ham hock pork belly short ribs frankfurter kielbasa spare ribs t-bone venison leberkas.</p>            
+            <h1>Contact the Kaufman Development Group</h1>
+            <p>For  more information on Kaufman Development Group or any of its businesses or properties, please contact:</p>  
+            <p>Michael Kaufman<br />
+               <a href="mailto:Michael@KaufmanDevelopmentGroup.com">Michael@KaufmanDevelopmentGroup.com</a><br />
+               1612 Newcastle Street, Suite 223, Brunswick, GA 31520</p>          
         </Container>
         <Footer />
     </div>

@@ -3,7 +3,7 @@ import React from "react"
 import { Navbar, Nav, Container } from "react-bootstrap"
 import { Link } from 'gatsby'
 
-import logo from "../images/kaufman-logo.jpg"
+import logo from "../images/KDG-HorizontalLogo-WhiteBackground.png"
 
 import 'bootstrap/dist/css/bootstrap.min.css';
 import '../css/custom.css';
