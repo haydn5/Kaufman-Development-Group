@@ -11,8 +11,10 @@ export default () =>
     <div>
         <Header />
         <Helmet title="Contact | Kaufman Development Group" />
+        <Container className="text-center">
+            <h1>Contact Kaufman Development Group</h1>
+        </Container>
         <Container className="oneCol">
-            <h1>Contact the Kaufman Development Group</h1>
             <p>For  more information on Kaufman Development Group or any of its businesses or properties, please contact:</p>  
             <p>Michael Kaufman<br />
                <a href="mailto:Michael@KaufmanDevelopmentGroup.com">Michael@KaufmanDevelopmentGroup.com</a><br />

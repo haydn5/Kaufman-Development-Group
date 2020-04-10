@@ -17,8 +17,11 @@ export default ({data}) => (
     <div>
         <Helmet title="Kaufman Development Group" />
         <Header />
+        <Container className="text-center">
+            <h1>Welcome to Kaufman Development Group</h1>
+        </Container>
         <Container className="oneCol">
-            <h1>Welcome to the Kaufman Development Group</h1>
+            
             <p>Kaufman Development Group is a family company with a diverse portfolio of affiliated businesses and properties across the Southeast and Midwest United States. Kaufman Development Group and its principals have in depth experience across many industries including Real Estate, Manufacturing, Hospitality, Food Service, Marketing, Private Equity Financing, and more. Below is a sample of a few Kaufman Development Group businesses and properties.</p>
             <hr />
         </Container>
