@@ -5,6 +5,9 @@
  */
 
 module.exports = {
+  siteMetadata: {
+    siteUrl: `https://kaufmandevelopmentgroup.com`,
+  },
   plugins: [
     {
       resolve: `gatsby-plugin-google-fonts`,
@@ -26,6 +29,7 @@ module.exports = {
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-sharp`,
     `gatsby-transformer-sharp`,
+    `gatsby-plugin-sitemap`,
     {
       resolve: `gatsby-plugin-favicon`,
       options: {
